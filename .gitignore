@@ -1,4 +1,10 @@
+# datasets
 data/*
+# postgresdb credentials
+env
+# postgresdb
+sql-data
+sql-data/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,venv,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,venv,visualstudiocode
